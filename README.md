@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=e5ecb9&height=300&section=header&text=WELCOME&desc=miroo's%20github%20profile&fontColor=f7f5f5&descSize=30&descAlignY=65&descAlign=60&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=e5ecb9&height=250&section=header&text=WELCOME&desc=miroo's%20github%20profile&fontColor=f7f5f5&descSize=30&descAlignY=65&descAlign=60&animation=twinkling)
 <br/><br/><br/>
 
 <div align=center>
